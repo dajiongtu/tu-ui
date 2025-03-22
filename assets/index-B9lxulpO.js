@@ -1,0 +1,1 @@
+import{_ as n,c as o,a as t,b as s,F as r,o as c}from"./index-gkIiVB53.js";const a={};function i(p,_){const e=s("l-progress");return c(),o(r,null,[t(e,{isAnimation:"","text-inside":!0,"stroke-width":20,percentage:50,status:"exception"}),t(e,{percentage:80,isAnimation:""}),t(e,{percentage:40,isAnimation:"",type:"circle"})],64)}const m=n(a,[["render",i]]);export{m as default};

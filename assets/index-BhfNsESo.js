@@ -1,0 +1,1 @@
+import{d as c,e as t,u as n,b as r,o as _}from"./index-gkIiVB53.js";const h=c({__name:"index",setup(a){let o=e=>{console.log(e)};return(e,l)=>{const s=r("l-choose-city");return _(),t(s,{onChooseCIty:n(o),onChooseProvince:n(o)},null,8,["onChooseCIty","onChooseProvince"])}}});export{h as default};

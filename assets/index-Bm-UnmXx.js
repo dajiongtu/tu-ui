@@ -1,0 +1,1 @@
+import{d as a,e as s,u as c,b as r,o as t}from"./index-gkIiVB53.js";const m=a({__name:"index",setup(_){let o=e=>{console.log(e)};return(e,l)=>{const n=r("l-choose-area");return t(),s(n,{onChange:c(o)},null,8,["onChange"])}}});export{m as default};
